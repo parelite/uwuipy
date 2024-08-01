@@ -53,24 +53,19 @@ class Uwuipy:
         "***looks at you***",
         "***huggles tightly***",
         "***boops your nose***",
-        "***wags my tail***",
-        "***pounces on you***",
         "***nuzzles your necky wecky***",
         "***licks lips***",
         "***glomps and huggles***",
-        "***glomps***",
-        "***looks around suspiciously***",
         "***smirks smugly***",
     ]
 
     # Because Kazani got annoyed at not being able to disable them.
     __nsfw_actions = [
-        "***twerks***",  # arguably nsfw
-        "***sees bulge***",
-        "***notices buldge***",
-        "***starts twerking***",  # also arguable.
-        "***unzips your pants***",
-        "***pounces on your buldge***",
+        "***nuzzles your necky wecky***",
+        "***licks lips***",
+        "***glomps and huggles***",
+        "***glomps***",
+        "***smirks smugly***",
     ]
 
     __exclamations = {
